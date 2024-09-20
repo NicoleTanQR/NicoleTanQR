@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Working on: CP1404, CP2408, CP2414, and MA2011 at JCU and Google Cybersecurity Professional Certificate at Coursera; Languages such as Python, HTML, CSS, JavaScript, Bash, and SQL
-## Fun fact: I was left-handed, but my parents made me switch to being right-handed
+Working on: CP1404, CP2408, CP2414, and MA2011 at JCU and Google Cybersecurity Professional Certificate at Coursera; Languages such as Python, HTML, CSS, JavaScript, Bash, and SQL
+Fun fact: I was left-handed, but my parents made me switch to being right-handed
