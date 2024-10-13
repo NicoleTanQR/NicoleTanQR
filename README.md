@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 Working on: CP1404, CP2408, CP2414, and MA2011 at JCU and Google Cybersecurity Professional Certificate at Coursera; Languages such as Python, HTML, CSS, JavaScript, Bash, and SQL
 
 Fun fact: I was left-handed, but my parents made me switch to being right-handed
+
+My referral links:
+TabiZoo (https://t.me/tabizoobot/tabizoo?startapp=937742472)
+CITY Holder Game (https://t.me/cityholder/game?startapp=937742472)
+HashCats (https://t.me/hash_cats_bot?start=XSyEbfHN9O)
+ZenCoin (https://t.me/theZencoin_bot/zencoin?startapp=r=937742472)
