@@ -22,6 +22,5 @@ Fun fact: I was left-handed, but my parents made me switch to being right-handed
 Earn crypto (my referral links):  
 CITY Holder Game https://t.me/cityholder/game?startapp=937742472    
 HashCats https://t.me/hash_cats_bot?start=XSyEbfHN9O    
-ZenCoin https://t.me/theZencoin_bot/zencoin?startapp=r=937742472  
 
 A cool blockchain messenger that is free and anonymous: https://fext.ferritecoin.org
