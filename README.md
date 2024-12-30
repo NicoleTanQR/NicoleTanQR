@@ -15,12 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Working on: Languages such as Python, HTML, CSS, JavaScript, Bash, and SQL
+Working on: Languages such as Python, HTML, CSS, JavaScript, Bash, SQL, PowerShell, and C++
 
 Fun fact: I was left-handed, but my parents made me switch to being right-handed
-
-Earn crypto (my referral links):  
-CITY Holder Game https://t.me/cityholder/game?startapp=937742472    
-HashCats https://t.me/hash_cats_bot?start=XSyEbfHN9O    
-
-A cool blockchain messenger that is free and anonymous: https://fext.ferritecoin.org
