@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Working on: Languages such as Python, HTML, CSS, JavaScript, Bash, SQL, PowerShell, and C++
+Working on: Languages such as Python, HTML, CSS, JavaScript, Bash, SQL, kvlang, PowerShell, and C++
 
 Fun fact: I was left-handed, but my parents made me switch to being right-handed
